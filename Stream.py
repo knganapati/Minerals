@@ -77,7 +77,7 @@ import base64
 from PIL import Image
 
 # Set the folder path
-DATA_FOLDER = r"C:\Users\k n ganapati\Desktop\Minerals\output"
+DATA_FOLDER = r"C:\Users\k n ganapati\Min\Minerals\output"
 
 # Function to load images
 
