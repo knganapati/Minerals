@@ -2,5 +2,5 @@ streamlit
 pillow
 
 
-base64
+
 
