@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Manganese",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "lat": -25.0, "lon": 118.68421052631579, "mineral": "Manganese", "probability": 0.17763861804085593, "mineral_1": "Manganese", "prob_1": 0.17763861804085593, "mineral_2": "Tin", "prob_2": 0.14494854119559417, "mineral_3": "Cobalt", "prob_3": 0.12581565869703373 }, "geometry": { "type": "Point", "coordinates": [ 118.684210526315795, -25.0 ] } },
+{ "type": "Feature", "properties": { "lat": -25.0, "lon": 118.94736842105263, "mineral": "Manganese", "probability": 0.15724949501077848, "mineral_1": "Manganese", "prob_1": 0.15724949501077848, "mineral_2": "Antimony", "prob_2": 0.13834163873016017, "mineral_3": "Cobalt", "prob_3": 0.12106019933673773 }, "geometry": { "type": "Point", "coordinates": [ 118.94736842105263, -25.0 ] } }
+]
+}

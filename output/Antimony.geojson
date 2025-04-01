@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Antimony",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "lat": -25.526315789473685, "lon": 115.26315789473684, "mineral": "Antimony", "probability": 0.20493657235340412, "mineral_1": "Antimony", "prob_1": 0.20493657235340412, "mineral_2": "Cobalt", "prob_2": 0.15207405033268623, "mineral_3": "Tin", "prob_3": 0.14046187228855866 }, "geometry": { "type": "Point", "coordinates": [ 115.263157894736835, -25.526315789473685 ] } },
+{ "type": "Feature", "properties": { "lat": -25.263157894736842, "lon": 115.26315789473684, "mineral": "Antimony", "probability": 0.16637032694506426, "mineral_1": "Antimony", "prob_1": 0.16637032694506426, "mineral_2": "Tin", "prob_2": 0.16273506274721722, "mineral_3": "Cobalt", "prob_3": 0.14737724748939579 }, "geometry": { "type": "Point", "coordinates": [ 115.263157894736835, -25.263157894736842 ] } },
+{ "type": "Feature", "properties": { "lat": -25.263157894736842, "lon": 115.52631578947368, "mineral": "Antimony", "probability": 0.19194483054694861, "mineral_1": "Antimony", "prob_1": 0.19194483054694861, "mineral_2": "Tin", "prob_2": 0.1586847239161277, "mineral_3": "Cobalt", "prob_3": 0.14516033914663315 }, "geometry": { "type": "Point", "coordinates": [ 115.526315789473685, -25.263157894736842 ] } }
+]
+}

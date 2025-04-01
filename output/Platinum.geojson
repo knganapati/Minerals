@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Platinum",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "lat": -28.157894736842106, "lon": 118.15789473684211, "mineral": "Platinum", "probability": 0.12924819041133731, "mineral_1": "Platinum", "prob_1": 0.12924819041133731, "mineral_2": "Germanium", "prob_2": 0.12615540761638974, "mineral_3": "Tin", "prob_3": 0.11597880391364085 }, "geometry": { "type": "Point", "coordinates": [ 118.15789473684211, -28.157894736842106 ] } }
+]
+}

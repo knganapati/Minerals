@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Rare",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "lat": -26.315789473684212, "lon": 118.15789473684211, "mineral": "Rare", "probability": 0.21476144787724594, "mineral_1": "Rare", "prob_1": 0.21476144787724594, "mineral_2": "Tin", "prob_2": 0.18513823930159234, "mineral_3": "Cobalt", "prob_3": 0.16350448310093796 }, "geometry": { "type": "Point", "coordinates": [ 118.15789473684211, -26.315789473684212 ] } }
+]
+}

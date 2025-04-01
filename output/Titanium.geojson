@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Titanium",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "lat": -29.736842105263158, "lon": 115.52631578947368, "mineral": "Titanium", "probability": 0.20302651043206041, "mineral_1": "Titanium", "prob_1": 0.20302651043206041, "mineral_2": "Cobalt", "prob_2": 0.16942467427414787, "mineral_3": "Tin", "prob_3": 0.14052190192299274 }, "geometry": { "type": "Point", "coordinates": [ 115.526315789473685, -29.736842105263158 ] } }
+]
+}

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "Nickel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "lat": -30.0, "lon": 115.26315789473684, "mineral": "Nickel", "probability": 0.18629588433599331, "mineral_1": "Nickel", "prob_1": 0.18629588433599331, "mineral_2": "Cobalt", "prob_2": 0.13829676792703977, "mineral_3": "Gallium", "prob_3": 0.12209910487983396 }, "geometry": { "type": "Point", "coordinates": [ 115.263157894736835, -30.0 ] } },
+{ "type": "Feature", "properties": { "lat": -30.0, "lon": 118.94736842105263, "mineral": "Nickel", "probability": 0.17562400878418377, "mineral_1": "Nickel", "prob_1": 0.17562400878418377, "mineral_2": "Cobalt", "prob_2": 0.15800079197471534, "mineral_3": "Zirconium", "prob_3": 0.11593583949255074 }, "geometry": { "type": "Point", "coordinates": [ 118.94736842105263, -30.0 ] } },
+{ "type": "Feature", "properties": { "lat": -29.473684210526315, "lon": 116.84210526315789, "mineral": "Nickel", "probability": 0.1449388450691107, "mineral_1": "Nickel", "prob_1": 0.1449388450691107, "mineral_2": "Cobalt", "prob_2": 0.13509106631877815, "mineral_3": "Tin", "prob_3": 0.1268641498240102 }, "geometry": { "type": "Point", "coordinates": [ 116.84210526315789, -29.473684210526315 ] } },
+{ "type": "Feature", "properties": { "lat": -28.684210526315791, "lon": 118.68421052631579, "mineral": "Nickel", "probability": 0.26160101344047487, "mineral_1": "Nickel", "prob_1": 0.26160101344047487, "mineral_2": "Cobalt", "prob_2": 0.1469306927844572, "mineral_3": "Tin", "prob_3": 0.094434854586778638 }, "geometry": { "type": "Point", "coordinates": [ 118.684210526315795, -28.684210526315791 ] } },
+{ "type": "Feature", "properties": { "lat": -27.631578947368421, "lon": 120.0, "mineral": "Nickel", "probability": 0.1468453191476235, "mineral_1": "Nickel", "prob_1": 0.1468453191476235, "mineral_2": "Cobalt", "prob_2": 0.14011466213932644, "mineral_3": "Zirconium", "prob_3": 0.11500539517545365 }, "geometry": { "type": "Point", "coordinates": [ 120.0, -27.631578947368421 ] } }
+]
+}

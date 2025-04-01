@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/ba28b0cb-9816-4f02-bf69-f3358d6cfd75/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/MineralApp",
+    "appService.deploySubpath": "."
+}
